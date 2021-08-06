@@ -15,13 +15,13 @@ https://.freecodecamp.com Learn HTML,CSS,JS for Free
 ZIM JavaScript Canvas Framework https://zimjs.com/
 
 
-## **Lbaries**
+## **Libraries**
 
 
-#JS#
+#JS
 leafletjs https://leafletjs.com/
 
-##CSS##
+##CSS
 
 CSS Properties Index https://meiert.com/en/indices/css-properties/
 
