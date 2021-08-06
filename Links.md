@@ -18,10 +18,12 @@ ZIM JavaScript Canvas Framework https://zimjs.com/
 ## **Libraries**
 
 
-#JS
+**JS**
 leafletjs https://leafletjs.com/
 
-##CSS
+
+## **CSS**
+
 
 CSS Properties Index https://meiert.com/en/indices/css-properties/
 
